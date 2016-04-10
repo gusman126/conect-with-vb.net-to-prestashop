@@ -1,0 +1,13 @@
+C:\Users\Administrador\AppData\Local\Temporary Projects\conexionmysql\bin\Debug\conexionmysql.exe.config
+Y:\vbnet mysql\conexionmysql\conexionmysql\bin\Debug\conexionmysql.exe.config
+Y:\vbnet mysql\conexionmysql\conexionmysql\bin\Debug\conexionmysql.exe
+Y:\vbnet mysql\conexionmysql\conexionmysql\bin\Debug\conexionmysql.pdb
+Y:\vbnet mysql\conexionmysql\conexionmysql\bin\Debug\conexionmysql.xml
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.Form1.resources
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.Resources.resources
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.prestashop.resources
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.vbproj.GenerateResource.Cache
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.exe
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.xml
+Y:\vbnet mysql\conexionmysql\conexionmysql\obj\Debug\conexionmysql.pdb
+Y:\vbnet mysql\conexionmysql\conexionmysql\bin\Debug\MySql.Data.dll
